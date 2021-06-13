@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">TV Show</string>
+
+    <string name="poster_film">poster film</string>
+    <string name="overview">Overview</string>
+    <string name="favorite_menu">favorite_menu</string>
+</resources>
